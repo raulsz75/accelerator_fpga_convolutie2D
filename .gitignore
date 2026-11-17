@@ -1,0 +1,18 @@
+# Fisiere generate de Vivado (se recreeaza din .xpr + surse)
+*.cache/
+*.hw/
+*.runs/
+*.sim/
+*.ip_user_files/
+*.gen/
+*.srcs/sources_1/bd/*/ip/
+*.jou
+*.log
+*.str
+*.pb
+*.wdb
+*.backup.*
+.Xil/
+xsim.dir/
+webtalk*
+vivado*.zip
